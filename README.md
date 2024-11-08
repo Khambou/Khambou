@@ -9,7 +9,8 @@
     <p>I'm a programming student specializing in software development, with additional expeience in web development. Passionate avout tech and problem-solving, I'm eager to learn and            improve.</p>
 </div>
 <div align="center">
-    <h2>🚀 Connect with me</h2>
+    <h2>🌐 Connect with me</h2>
+    <p>To connect with me, you can find my professional profil and contact details on LinkedIn, or explore more about my projects and interets through my portfolio.</p>
     <a href="https://linkedin.com/in/c%C3%A9dric-khambounheuang-31a1151a2">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
