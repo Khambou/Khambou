@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="./header-readme.png" alt="Header for my readme" />
+        <img src="./header.png" alt="Header for my readme" />
     </p>
 </div>
 
