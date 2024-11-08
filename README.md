@@ -1,3 +1,9 @@
+<div align="center">
+    <p>
+        <img src="./github-header-image.png" alt="Header for my readme" />
+    </p>
+</div>
+
 - 👋 Hi, I’m @Khambou
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning the language C
