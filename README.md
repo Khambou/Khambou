@@ -16,7 +16,7 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/khambou/khambou/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/Khambou/Khambou/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 <!---
 Khambou/Khambou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
