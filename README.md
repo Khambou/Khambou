@@ -4,7 +4,7 @@
     </p>
 </div>
 
-<div align="left">
+<div align="center">
     <h2>🚀 About me</h2>
     <p>I'm a programming student specializing in software development, with additional expeience in web development. Passionate avout tech and problem-solving, I'm eager to learn and improve.</p>
 </div>
